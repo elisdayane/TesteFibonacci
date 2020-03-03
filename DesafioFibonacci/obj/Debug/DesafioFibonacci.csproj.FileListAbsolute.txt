@@ -1,0 +1,6 @@
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.exe.config
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.exe
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.pdb
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.csprojAssemblyReference.cache
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.exe
+C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.pdb
