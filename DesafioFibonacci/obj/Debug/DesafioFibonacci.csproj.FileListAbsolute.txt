@@ -4,3 +4,9 @@ C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\bin\D
 C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.csprojAssemblyReference.cache
 C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.exe
 C:\Users\elis.d.alves.souza\source\repos\DesafioFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.pdb
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.exe.config
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.exe
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\bin\Debug\DesafioFibonacci.pdb
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.csprojAssemblyReference.cache
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.exe
+C:\Users\Elis\source\repos\TesteFibonacci\DesafioFibonacci\obj\Debug\DesafioFibonacci.pdb

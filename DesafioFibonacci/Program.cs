@@ -30,7 +30,7 @@ namespace DesafioFibonacci
 
             if (lista.Contains(numero)) return true;
           
-            return false; ;
+            return false; 
         }
 
 
@@ -41,8 +41,7 @@ namespace DesafioFibonacci
             listaFibanocci.Add(0);
             int ultimo = 0;
 
-
-            for (int i = 0; ultimo < 351; i++)
+            while(ultimo < 351)
             {
 
                 int a = listaFibanocci.Count();
